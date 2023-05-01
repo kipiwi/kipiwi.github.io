@@ -60,6 +60,6 @@ p{
       text-align: left;
     }
   }
-  #texto {
-    font-size: 2vw;
+  #texto{
+    text-size-adjust: 2vw;
   }
