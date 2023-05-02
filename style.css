@@ -1,15 +1,24 @@
+body{
+  font-family: Arial, Helvetica, sans-serif;
+}
 h1{
     text-align: center;
+    font-size:7vw;
+}
+h2{
+  font-size: 3vw;
 }
 p{
-    text-align: center;
+  text-align: center;
 }
 /* Add a black background color to the top navigation */
 .topnav {
     background-color: #333;
     overflow: hidden;
   }
-  
+  a{
+    color: #6df78b;
+  }
   /* Style the links inside the navigation bar */
   .topnav a {
     float: left;
@@ -60,6 +69,6 @@ p{
       text-align: left;
     }
   }
-  #texto{
-    text-size-adjust: 2vw;
+  a{
+    color: #04AA6D;
   }
